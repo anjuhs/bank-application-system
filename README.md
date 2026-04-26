@@ -94,5 +94,3 @@ This project is a reconstructed version of an academic banking application, rede
 
 This project focuses on backend design and API development rather than full production-level banking features.
 
-git commit --allow-empty -m "refresh stats"
-git push
