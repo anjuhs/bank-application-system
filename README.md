@@ -70,7 +70,7 @@ uvicorn app:app --reload
 4. Open in browser:
 
 ```
-http://127.0.0.1:8000/docs
+http://127.0.0.1:8002/docs
 ```
 
 ---
@@ -93,3 +93,6 @@ This project is a reconstructed version of an academic banking application, rede
 ## ⚠️ Note
 
 This project focuses on backend design and API development rather than full production-level banking features.
+
+git commit --allow-empty -m "refresh stats"
+git push
